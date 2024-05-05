@@ -36,7 +36,7 @@
   /* Values
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   .values {
-    background-image: url('/images/bg-mom2.jpg');
+    background-image: url('images/bg-mom2.jpg');
     background-size: cover;
     color: #fff;
     padding-bottom: 5rem;
